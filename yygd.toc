@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Topoloji Tanitimi}{3}{0}{1}
+\beamer@sectionintoc {2}{Analiz}{5}{0}{2}
+\beamer@sectionintoc {3}{Deneysel Calisma ve Ciktilar}{14}{0}{3}
+\beamer@sectionintoc {4}{Sonuc}{19}{0}{4}
